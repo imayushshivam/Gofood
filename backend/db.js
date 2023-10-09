@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const mongoURI = 'mongodb+srv://imayush:Ayush0123@cluster0.himdvv4.mongodb.net/?retryWrites=true&w=majority';
+const mongoURI = 'mongodb+srv://id:password@cluster0.himdvv4.mongodb.net/?retryWrites=true&w=majority';
 
 module.exports = async function (callback) {
     try {
