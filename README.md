@@ -75,6 +75,3 @@ Contributing
   - Create a new branch for your contributions.
   - Make your contributions.
   - Create a pull request.
-
-License
-  - This project is licensed under the MIT License.
